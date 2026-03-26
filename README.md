@@ -31,13 +31,15 @@ A full-stack e-commerce web application built with the **MERN stack**.
 
 ### Key Features
 
-• Product listing and product details
-• Category filtering
-• Shopping cart system
-• Checkout process
-• Order creation
-• Order success page
-• Order history for users
+<ul>
+<li>Product listing and product details</li>
+<li>Category filtering</li>
+<li>Shopping cart system</li>
+<li>Checkout process</li>
+<li>Order creation</li>
+<li>Order success page</li>
+<li>Order history for users</li>
+</ul>
 
 ### Tech Stack
 
@@ -55,7 +57,7 @@ https://github.com/sandeepcodelab/martivo
 
 ## 🛠 Skills & Technologies
 
-<table align="center" border="0">
+<table align="center">
 <tr>
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=html" width="40"/><br>HTML
@@ -114,7 +116,7 @@ https://github.com/sandeepcodelab/martivo
 
 ## 📫 Connect With Me
 
-<table border="0">
+<table>
 <tr>
 
 <td align="center">
