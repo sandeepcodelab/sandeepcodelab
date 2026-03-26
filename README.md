@@ -55,7 +55,7 @@ https://github.com/sandeepcodelab/martivo
 
 ## 🛠 Skills & Technologies
 
-<table align="center">
+<table align="center" border="0">
 <tr>
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=html" width="40"/><br>HTML
@@ -114,7 +114,7 @@ https://github.com/sandeepcodelab/martivo
 
 ## 📫 Connect With Me
 
-<table>
+<table border="0">
 <tr>
 
 <td align="center">
